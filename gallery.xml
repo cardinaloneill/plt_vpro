@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<small><!--Inside the small tags are the thumbs -->
+		<panel id="1" info="DESCRIPTION 1" url="img/small/1.png" resizable="false" width="175" height="125"/>
+		<panel id="2" info="DESCRIPTION 2" url="img/small/2.png" resizable="false" width="175" height="125"/>
+		<panel id="3" info="DESCRIPTION 3" url="img/small/3.png" resizable="false" width="175" height="125"/>
+		<panel id="4" info="DESCRIPTION 4" url="img/small/4.png" resizable="false" width="175" height="100"/>
+		<panel id="5" info="DESCRIPTION 5" url="img/small/5.png" resizable="false" width="175" height="125"/>
+		<panel id="6" info="DESCRIPTION 6" url="img/small/6.png" resizable="false" width="175" height="125"/>
+		<panel id="7" info="DESCRIPTION 7" url="img/small/7.png" resizable="false" width="175" height="125"/>
+		<panel id="8" info="DESCRIPTION 8" url="img/small/8.png" resizable="false" width="175" height="125"/>
+		<panel id="9" info="DESCRIPTION 9" url="img/small/9.png" resizable="false" width="175" height="125"/>
+		<panel id="10" info="DESCRIPTION 10" url="img/small/10.png" resizable="false" width="175" height="125"/>
+		<panel id="11" info="DESCRIPTION 11" url="img/small/11.png" resizable="false" width="175" height="125"/>
+		<panel id="12" info="DESCRIPTION 12" url="img/small/12.png" resizable="false" width="175" height="125"/>
+		</small>
+	<big><!--Inside the big tags are the big images -->
+		<panel id="1" info="DESCRIPTION 1" url="img/big/1.png" resizable="false" width="700" height="375"/>
+		<panel id="2" info="DESCRIPTION 2" url="img/big/2.png" resizable="false" width="700" height="375"/>
+		<panel id="3" info="DESCRIPTION 3" url="img/big/3.png" resizable="false" width="700" height="375"/>
+		<panel id="4" info="DESCRIPTION 4" url="img/big/4.png" resizable="false" width="700" height="375"/>
+		<panel id="5" info="DESCRIPTION 5" url="img/big/5.png" resizable="false" width="700" height="375"/>
+		<panel id="6" info="DESCRIPTION 6" url="img/big/6.png" resizable="false" width="700" height="375"/>
+		<panel id="7" info="DESCRIPTION 7" url="img/big/7.png" resizable="false" width="700" height="375"/>
+		<panel id="8" info="DESCRIPTION 8" url="img/big/8.png" resizable="false" width="700" height="375"/>
+		<panel id="9" info="DESCRIPTION 9" url="img/big/9.png" resizable="false" width="700" height="375"/>
+		<panel id="10" info="DESCRIPTION 10" url="img/big/10.png" resizable="false" width="700" height="375"/>
+		<panel id="11" info="DESCRIPTION 11" url="img/big/11.png" resizable="false" width="700" height="375"/>
+		<panel id="12" info="DESCRIPTION 12" url="img/big/12.png" resizable="false" width="700" height="375"/>
+	</big>
+</gallery>
