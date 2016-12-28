@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	
+	<!-- 
+	
+	This if for the textformat library
+	-->
+	<textformat 
+	align="center" 
+	blockindent="0" 
+	bold="false" 
+	bullet="false" 
+	color="0x33CCFF" 
+	font="DS-Digital" 
+	indent="0" 
+	italic="false" 
+	kerning="false" 
+	leading="0" 
+	leftmargin="0" 
+	letterSpacing="0" 
+	rightmargin="0" 
+	size="28"
+	underline="false"
+	/>
+	
+	<!-- 
+	settings the Flip 3D
+	-->
+	
+	<gallery
+	rows="3"
+	columns="4"
+	horizontalspace="0"
+	verticalspace="0"
+	autoplaytime="3.0"
+	rotationmintime="0.5"
+	rotationmaxtime="1.0"
+	cameramaxx="5"
+	cameramaxy="5"
+	maxzoom="100"
+	minzoom="0"
+	zoomeasing="easeOutQuad"
+	zoomtime="1.0"
+	/>
+	
+	<expandablebar
+	orientation="bottom"
+	barsize="30"
+	contentsize="30"
+	barcolor="0x4D4C4E"
+	baralpha="0"
+	contentcolor="0x4D4C4E"
+	contentalpha="0.5"
+	slideineasing="easeOutQuad"
+	slideouteasing="easeOutQuad"
+	slideintime="0.5"
+	slideouttime="0.5"
+	/>
+	
+	
+	
+</settings>
